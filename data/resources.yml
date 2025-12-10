@@ -312,6 +312,19 @@
   open_access: true
   license: "PSF License"
 
+- id: software-carpentry-lessons
+  title: "Software Carpentry Lessons"
+  url: "https://software-carpentry.org/lessons/index.html"
+  domain: "foundations"
+  type: "tutorial"
+  difficulty: "beginner"
+  prior_knowledge: "Basic familiarity with files/folders; no prior coding experience required"
+  est_time: "10–20 hours (Unix shell, Git, and Python/R lessons)"
+  description: "Collection of core Software Carpentry lessons teaching essential research computing skills: the Unix shell, version control with Git, and programming with Python or R. Designed as hands-on workshop material with exercises and instructor notes."
+  tags: ["research computing", "shell/git/python", "hands-on lessons"]
+  open_access: true
+  license: "Creative Commons (The Carpentries curriculum)"
+
 # === CHEMISTRY ===
 
 - id: epfl-ai-chem
