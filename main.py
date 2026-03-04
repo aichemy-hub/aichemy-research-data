@@ -21,7 +21,7 @@ def define_env(env):
         Usage in Markdown: {% for r in all_resources_sorted() %} ... {% endfor %}
         """
 
-        return sorted(resources, key="date", reverse=True)
+        return sorted(resources, key="title", reverse=True)
 
     @env.macro
     def last_updated():
