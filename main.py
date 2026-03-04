@@ -1,6 +1,7 @@
 from pathlib import Path
 import yaml
 from datetime import datetime, timezone
+import operator
 
 
 def define_env(env):
@@ -17,11 +18,11 @@ def define_env(env):
     @env.macro
     def all_resources_sorted():
         """
-        Return all resources sorted by date.
+        Return all resources sorted by title.
         Usage in Markdown: {% for r in all_resources_sorted() %} ... {% endfor %}
         """
 
-        return sorted(resources, key="title", reverse=True)
+        return sorted(resources, key=operator.itemgetter("title"))
 
     @env.macro
     def last_updated():
