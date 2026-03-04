@@ -1,3 +1,4 @@
 pyyaml
+mkdocs<2.0
 mkdocs-material 
 mkdocs-macros-plugin
