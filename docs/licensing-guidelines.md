@@ -16,6 +16,9 @@ In most cases, you will license a dataset (e.g. a CSV file of experimental resul
 ## Where should I share research data?
 
 A good repository should make your data discoverable, citable, and preserved over the long term.
+
 **General purpose repositories:** Research data archives like [Zenodo](https://zenodo.org/) are a good default choice: every deposit gets a DOI, making your dataset easy to cite, and the platform guarantees long-term preservation (currently tied to the lifetime of CERN with at least a 20-year horizon) and metadata harvesting for discovery.
+
 **Discipline specific repositories:** Chemistry- or AI-specific repositories can be preferable because it maximises findability within the research field. For machine-learning-focused data, community platforms like [Kaggle](https://www.kaggle.com/) or [Hugging Face Hub](https://huggingface.co/datasets) can offer useful tools and visibility for models and dataset exploration, but they don't inherently provide DOIs or the same long-term preservation guarantees as Zenodo. So, you can use them in addition to a proper research archive rather than as your primary deposit.
+
 **Institutional repositories:** Institutional research data repositories provide an alternative to larger general-purpose repositories. Depositing here usually ensures your dataset receives a DOI and benefits from institutional preservation and support. This is often the most straightforward choice if you do not have a suitable discipline-specific repository, or if you want your data formally linked to your university's research outputs and reporting systems.
