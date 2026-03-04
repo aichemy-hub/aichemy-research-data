@@ -1,6 +1,6 @@
-site_name: "Chem & Materials AI Resources"
-site_url: "https://aichemy-hub.github.io/chem-ai-resources/"
-repo_url: "https://github.com/aichemy-hub/chem-ai-resources"
+site_name: "AIchemy Hub Research Data"
+site_url: "https://aichemy-hub.github.io/aichemy-research-data/"
+repo_url: "https://github.com/aichemy-hub/aichemy-research-data"
 
 theme:
   name: material
@@ -24,14 +24,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Online Textbooks: textbooks.md
-  - Courses & Course Materials: courses.md
-  - Tutorials & Tutorial Notebooks: tutorials.md
-  - Software & Python packages: software.md
-  - Datasets & Dataset Collections: datasets.md
-  - Quick links (table): table.md
-  - All resources: resources.md
-  - Contributing: contributing.md
+  - Research Data: research-data.md
+  - Licensing Guidelines: licensing-guidelines.md
 
 extra_css:
   - stylesheets/tags.css
