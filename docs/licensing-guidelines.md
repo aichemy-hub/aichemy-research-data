@@ -1,5 +1,7 @@
 # Licensing Research Data
 
+_These guidelines are provided as best-effort, community-maintained guidance and do not constitute legal advice. Licensing requirements vary by institution, funder, and jurisdiction. If in doubt, consult your institution's research data or legal support team._
+
 ## Why does my research data need a licence?
 
 If you share data without a licence, the default position is "all rights reserved," which makes reuse legally uncertain and therefore unlikely. While individual facts are not protected by copyright, the structure, selection, documentation, and any associated database rights usually are. Adding a clear licence tells others exactly what they are allowed to do with your data, enabling reuse, citation, and compliance with funder and journal open research requirements. In short, a licence turns your data from "visible but unusable" into a reusable research output.
